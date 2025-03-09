@@ -8,7 +8,4 @@ Access to healthcare is a fundamental right, yet disparities in healthcare facil
 ![image](https://github.com/user-attachments/assets/498c5df3-c3d7-4eef-8b95-e7d1d894f86b)
 
 
-### Spread of the various types of health facility amenities
-![output](https://github.com/user-attachments/assets/8ada0c42-3077-4993-b726-6e52e354b2a6)
-
 
