@@ -1,0 +1,82 @@
+{
+    "15-19": {
+        "women_percentage_with_sign": 9.8,
+        "women_number": 3258,
+        "women_percentage_sought_care": 30.5,
+        "women_number_with_symptom": 320,
+        "men_percentage_with_sign": 6.5,
+        "men_number": 1526,
+        "men_percentage_sought_care": 27.8,
+        "men_number_with_symptom": 99
+    },
+    "20-24": {
+        "women_percentage_with_sign": 12.1,
+        "women_number": 2414,
+        "women_percentage_sought_care": 37.3,
+        "women_number_with_symptom": 292,
+        "men_percentage_with_sign": 9.6,
+        "men_number": 960,
+        "men_percentage_sought_care": 50.2,
+        "men_number_with_symptom": 96
+    },
+    "Kigali City": {
+        "women_percentage_with_sign": 6,
+        "women_number": 2166,
+        "women_percentage_sought_care": 41,
+        "women_number_with_symptom": 129,
+        "men_percentage_with_sign": 4.3,
+        "men_number": 879,
+        "men_percentage_sought_care": 49.2,
+        "men_number_with_symptom": 38
+    },
+    "South": {
+        "women_percentage_with_sign": 10.7,
+        "women_number": 3065,
+        "women_percentage_sought_care": 38.9,
+        "women_number_with_symptom": 327,
+        "men_percentage_with_sign": 9.7,
+        "men_number": 1239,
+        "men_percentage_sought_care": 41.4,
+        "men_number_with_symptom": 120
+    },
+    "West": {
+        "women_percentage_with_sign": 14.7,
+        "women_number": 2308,
+        "women_percentage_sought_care": 39.7,
+        "women_number_with_symptom": 339,
+        "men_percentage_with_sign": 11.3,
+        "men_number": 1148,
+        "men_percentage_sought_care": 36,
+        "men_number_with_symptom": 130
+    },
+    "North": {
+        "women_percentage_with_sign": 16.7,
+        "women_number": 2226,
+        "women_percentage_sought_care": 41.1,
+        "women_number_with_symptom": 371,
+        "men_percentage_with_sign": 9.7,
+        "men_number": 886,
+        "men_percentage_sought_care": 37.4,
+        "men_number_with_symptom": 86
+    },
+    "East": {
+        "women_percentage_with_sign": 10.3,
+        "women_number": 4203,
+        "women_percentage_sought_care": 36.3,
+        "women_number_with_symptom": 433,
+        "men_percentage_with_sign": 9,
+        "men_number": 1574,
+        "men_percentage_sought_care": 36.1,
+        "men_number_with_symptom": 156
+    },
+    "Total 15-49": {
+        "women_percentage_with_sign": 11.7,
+        "women_number": 14634,
+        "women_percentage_sought_care": 38.7,
+        "women_number_with_symptom": 1718,
+        "men_percentage_with_sign": 7.7,
+        "men_number": 5846,
+        "men_percentage_sought_care": 40.9,
+        "men_number_with_symptom": 453
+    }
+}
