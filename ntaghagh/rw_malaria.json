@@ -9,7 +9,7 @@
         "malaria_prevalence_microscopy_children": 0.6,
         "number_children_microscopy": 512
     },
-    "south": {
+    "South": {
         "malaria_prevalence_rdt": 1.0,
         "number_women_rdt": 1521,
         "malaria_prevalence_microscopy": 0.6,
@@ -19,7 +19,7 @@
         "malaria_prevalence_microscopy_children": 1.3,
         "number_children_microscopy": 761
     },
-    "west": {
+    "West": {
         "malaria_prevalence_rdt": 1.7,
         "number_women_rdt": 1605,
         "malaria_prevalence_microscopy": 0.5,
@@ -29,7 +29,7 @@
         "malaria_prevalence_microscopy_children": 1.5,
         "number_children_microscopy": 886
     },
-    "north": {
+    "North": {
         "malaria_prevalence_rdt": 0.9,
         "number_women_rdt": 1091,
         "malaria_prevalence_microscopy": 0.6,
@@ -39,7 +39,7 @@
         "malaria_prevalence_microscopy_children": 0.3,
         "number_children_microscopy": 584
     },
-    "east": {
+    "East": {
         "malaria_prevalence_rdt": 0.9,
         "number_women_rdt": 1999,
         "malaria_prevalence_microscopy": 0.4,
