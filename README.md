@@ -4,7 +4,7 @@ Access to healthcare is a fundamental right, yet disparities in healthcare facil
 ### Facility Distribution Across Rwanda
 ![image](https://github.com/user-attachments/assets/9ee81b5c-1574-4950-a593-9a0bcb2fe997)
 
-### Sample Heatmap of Tuberculosis Cases
+### Heatmap of Tuberculosis spread
 ![image](https://github.com/user-attachments/assets/498c5df3-c3d7-4eef-8b95-e7d1d894f86b)
 
 
